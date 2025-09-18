@@ -43,4 +43,4 @@ Este proyecto permite:
    ```
 3. Abre el notebook:
    ```bash
-   
+   jupyter notebook Proyecto_Principal.ipynb
