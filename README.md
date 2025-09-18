@@ -49,3 +49,4 @@ Este proyecto permite:
    - Cargar Isabel.jpeg u otra imagen que elijas
    - Cómo extraer y procesar valores de píxeles
    - Cómo visualizar datos numéricos de imágenes para entender mejor su estructura
+   - Base para aplicar transformaciones o algoritmos de imagen (filtrado, detección de bordes, etc.)
