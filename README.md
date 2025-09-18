@@ -1,3 +1,4 @@
+# Convertir_Imagen_A_Matriz
 
 Proyecto en Python (Jupyter Notebook) para convertir imágenes en matrices numéricas, con el objetivo de facilitar su procesamiento, análisis o uso en algoritmos.
 
