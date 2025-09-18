@@ -46,4 +46,4 @@ Este proyecto permite:
    jupyter notebook Proyecto_Principal.ipynb
    ```
 4. Sigue el notebook paso a paso para:
-   
+   - Cargar Isabel.jpeg u otra imagen que elijas
