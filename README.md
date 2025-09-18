@@ -48,3 +48,4 @@ Este proyecto permite:
 4. Sigue el notebook paso a paso para:
    - Cargar Isabel.jpeg u otra imagen que elijas
    - Cómo extraer y procesar valores de píxeles
+   - Cómo visualizar datos numéricos de imágenes para entender mejor su estructura
