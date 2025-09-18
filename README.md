@@ -42,3 +42,5 @@ Este proyecto permite:
    cd Convertir_Imagen_A_Matriz
    ```
 3. Abre el notebook:
+   ```bash
+   
