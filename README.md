@@ -38,3 +38,7 @@ Este proyecto permite:
    git clone https://github.com/UrbanoTrejoOrlando/Convertir_Imagen_A_Matriz.git
    ```
 2. Entra al directorio:
+   ```bash
+   cd Convertir_Imagen_A_Matriz
+   ```
+   
