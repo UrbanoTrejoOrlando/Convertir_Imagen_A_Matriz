@@ -45,4 +45,5 @@ Este proyecto permite:
    ```bash
    jupyter notebook Proyecto_Principal.ipynb
    ```
+4. Sigue el notebook paso a paso para:
    
