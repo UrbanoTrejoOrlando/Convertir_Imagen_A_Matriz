@@ -37,4 +37,4 @@ Este proyecto permite:
    ```bash
    git clone https://github.com/UrbanoTrejoOrlando/Convertir_Imagen_A_Matriz.git
    ```
-   
+2. Entra al directorio:
